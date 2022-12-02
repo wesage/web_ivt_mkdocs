@@ -1,1 +1,6 @@
+# Project information
 site_name: My Docs
+
+# Configuration
+theme:
+  name: material
